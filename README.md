@@ -1,1 +1,1 @@
-# DogCoin
+# dog-coin
